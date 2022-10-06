@@ -37,7 +37,7 @@ https://www.bowe.com.br/*    https://bowe.com.br/:splat 301
 
 
 
-/abm https://landing-pages.bowe.com.br/bowe/abm/:splat 301
+/abm https://landing-pages.bowe.com.br/bowe/abm/ 301
 /sonda-geracao-de-demanda https://landing-pages.bowe.com.br/bowe/sonda-geracao-de-demanda/:splat 200
 
 

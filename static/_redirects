@@ -7,7 +7,7 @@
 /sonda-natasha/* https://landing-pages.bowe.com.br/bowe/bate-bola-bowe-natasha/:splat 200
 /sonda-lucas/* https://landing-pages.bowe.com.br/bowe/bate-bola-bowe-lucas/:splat 200
 /sonda-rose/*  https://landing-pages.bowe.com.br/bowe/bate-papo-bowe-rose/:splat 200
-/sonda-geracao-de-demanda/* https://landing-pages.bowe.com.br/bowe/sonda-geracao-de-demanda/:splat 200
+
 /sonda-geracao-de-demanda-b2b/* https://landing-pages.bowe.com.br/bowe/sonda-geracao-de-demanda-b2b/:splat 200
 /ebook/geracao-de-demanda-b2b/*    https://landing-pages.bowe.com.br/bowe/tofu/:splat 200
 /ebook/geracao-de-demanda-b2b/thankspage/*    https://landing-pages.bowe.com.br/bowe/tofu/thankspage/:splat 200
@@ -33,6 +33,7 @@
 /semana-marketing-e-vendas/*  https://talks.bowe.com.br/:splat 301
 /vagas/    https://jobs.kenoby.com/bowe
 https://www.bowe.com.br/*    https://bowe.com.br/:splat 301
-# /abm/* https://landing-pages.bowe.com.br/bowe/abm/:splat 301
-/abm https://landing-pages.bowe.com.br/bowe/abm/:splat 301
+
+/abm/* https://landing-pages.bowe.com.br/bowe/abm/:splat 301
+/sonda-geracao-de-demanda https://landing-pages.bowe.com.br/bowe/sonda-geracao-de-demanda/:splat 200
 /demand-generation/* https://landing-pages.bowe.com.br/bowe/geracao-de-demanda-b2b/:splat 200

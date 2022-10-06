@@ -31,7 +31,7 @@
 /wiki/*    http://3.238.50.90:8080/wiki/Main_Page#:splat    301!
 /hello https://docs.google.com/presentation/d/e/2PACX-1vRi1xA-mG2xexIr4jGFDi25O2xhGUnxDMcNokRrD7FsG_4Z-lhfC39wNIdJeiqYk-J-r75eYpl-rBgq/pub?start=false&loop=false&delayms=3000 301
 /semana-marketing-e-vendas/*  https://talks.bowe.com.br/:splat 301
-/vagas    https://jobs.kenoby.com/bowe
+/vagas/    https://jobs.kenoby.com/bowe
 https://www.bowe.com.br/*    https://bowe.com.br/:splat 301
-/abm/* https://landing-pages.bowe.com.br/bowe/abm/:splat 200
+/abm https://landing-pages.bowe.com.br/bowe/abm/:splat 200
 /demand-generation/* https://landing-pages.bowe.com.br/bowe/geracao-de-demanda-b2b/:splat 200

@@ -1,0 +1,19 @@
+.bg-theme-red {
+    position: relative;
+    background-color: #BC1835;
+}
+
+.bg-theme-red::before {
+    content: '';
+    position: absolute;
+    top:0;
+    left: 0;
+    background-color: #BC1835;
+    background-image: url("../../../assets/img/bg-red.svg");
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    opacity: .5;
+}
